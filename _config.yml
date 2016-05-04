@@ -4,8 +4,8 @@ email: madeleine.bonsma@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Madeleine and Kent's wedding website
 
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://mbonsma.github.io/wedding/" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "http://mbonsma.github.io/wedding" # the base hostname & protocol for your site
 twitter_username: mbonsma
 github_username:  mbonsma
 
