@@ -3,8 +3,8 @@ title: MK2016
 email: madeleine.and.kent@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Madeleine and Kent's wedding website
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://mbonsma.github.io/wedding/" # the base hostname & protocol for your site
+baseurl: "/wedding/" # the subpath of your site, e.g. /blog/
+url: "https://mbonsma.github.io" # the base hostname & protocol for your site
 twitter_username: mbonsma
 github_username:  mbonsma
 
