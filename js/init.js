@@ -73,7 +73,7 @@
 
 		// Disable animations/transitions until the page has loaded.
 			$body.addClass('is-loading');
-			
+
 			$window.on('load', function() {
 				$body.removeClass('is-loading');
 			});
@@ -92,7 +92,7 @@
 				}
 
 			}
-			
+
 		// Scrolly links.
 			$('.scrolly').scrolly(1000, -10);
 
@@ -122,7 +122,7 @@
 					});
 
 				});
-			
+
 			}
 
 	});
