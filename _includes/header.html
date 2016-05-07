@@ -2,10 +2,10 @@
 				<h1 id="logo">Madeleine and Kent 2016</h1>
 				<nav id="nav">
 					<ul>
-						<li><a href="#info">Details</a></li>
-						<li><a href="#registry">Registry</a></li>
-						<li><a href="/blog.html">Our Story</a></li>
-						<li><a href="/contact.html">RSVP</a></li>
+						<li><a href="{{ "#info" | prepend: site.baseurl }}">Details</a></li>
+						<li><a href="{{ "#registry" | prepend: site.baseurl }}">Registry</a></li>
+						<li><a href="{{ "/blog.html" | prepend: site.baseurl }}">Our Story</a></li>
+						<li><a href="{{ "/contact.html" | prepend: site.baseurl }}">RSVP</a></li>
 						<li class="submenu">
 							<a href="">Layouts</a>
 							<ul>
